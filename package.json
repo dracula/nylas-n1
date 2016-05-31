@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "title": "",
+  "displayName": "",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "",
+  "license": "GPL-3.0",
+  "engines": {
+    "nylas": "*"
+  },
+  "private": true
+}
+
