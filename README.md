@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/nylas-n1](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+| [![Benjamin Garcia](https://avatars3.githubusercontent.com/u/1433960?v=3&amp;s=460)](https://github.com/benjamingarcia/) |
+| ---------------------- |
+| [Benjamin Garcia](https://github.com/benjamingarcia) |
 
 ## License
 

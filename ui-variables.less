@@ -1,0 +1,106 @@
+// Change these variables to modify your theme!
+
+//=============================== Components ===========================//
+
+@white: #282a36;
+@gray-lighter: #282a36;
+@blue-dark: #bd93f9;
+@blue-light: #00b9ff;
+@blue: #ff79c6;
+@black: #8be9fd;
+
+//== Toolbar
+@toolbar-background-color: darken(@white, 17.5%);
+
+//== Account Sidebar
+@panel-background-color: @gray-lighter;
+@source-list-bg: @panel-background-color;
+@source-list-active-bg: @panel-background-color;
+@source-list-active-color: @component-active-color;
+
+//== Thread List (e.g, `.list-group-item`, `.list-item`)
+@list-bg: @white;
+@list-border: #ddd;
+@list-hover-bg: darken(@list-bg, 4%);
+@list-focused-color: @list-bg;
+@list-focused-bg: @component-active-color;
+@list-focused-border: @list-focused-bg;
+@list-selected-color: inherit;
+@list-selected-bg: mix(@component-active-color, @list-bg, 17%);
+@list-selected-border: mix(@component-active-color, @list-bg, 50%);
+
+//== Notifications
+@background-color-info: @blue-light;
+@background-color-success: #009ec4;
+@background-color-warning: #ff4800;
+@background-color-error: #f15f4b;
+@background-color-pending: #b4babd;
+
+//== Menus
+@menu-item-color-hover: fade(@blue-light, 10%);
+@menu-item-color-selected: @blue-light;
+@menu-text-color-selected: @text-color-inverse;
+
+//== Sizes
+@input-font-size: 14px;
+@component-padding: 10px;
+@component-icon-padding: 5px;
+@component-icon-size: 16px;
+@component-line-height: 25px;
+@component-border-radius: 2px;
+
+//=============================== Colors ===============================//
+
+@accent-primary: @blue;
+@accent-primary-dark: @blue-dark;
+
+@background-primary: @white;
+@background-off-primary: #44475a;
+@background-secondary: #44475a;
+@background-tertiary: #6272a4;
+
+@color-info: @blue-dark;
+@color-success: #50fa7b;
+@color-warning: #f1fa8c;
+@color-error: #ff5555;
+@color-danger: #ff5555;
+
+@component-active-color: @accent-primary-dark;
+@component-active-bg: @background-primary;
+
+@background-gradient: linear-gradient(to top, rgba(241, 241, 241, 0.75) 0%,
+rgba(253, 253, 253, 0.75) 100%);
+
+@border-color-primary: darken(@background-primary, 10%);
+@border-color-secondary: darken(@background-secondary, 10%);
+@border-color-tertiary: darken(@background-tertiary, 10%);
+@border-color-divider: @border-color-secondary;
+
+//============================= Typography =============================//
+
+// ----- Colors -----
+@text-color: @black;
+@text-color-inverse: @white;
+
+@text-color-heading: #434648;
+
+@text-color-link: @blue;
+@text-color-link-hover: @blue-dark;
+@text-color-link-active: @blue-dark;
+
+.message-item-white-wrap, .message-item-area {
+  background-color: ghostwhite;
+  color: @background-secondary !important;
+}
+
+#message-list .message-item-wrap.collapsed .message-item-white-wrap {
+  background-color: ghostwhite;
+}
+
+p.MsoNormal, div.participants.message-participants {
+  color: @background-secondary !important;
+}
+
+span.participant-name.from-contact {
+  color: @background-secondary !important;
+}
