@@ -6,7 +6,7 @@
 
 ## Install
 
-To install the theme, clone this repository : 
+To install the theme, clone this repository: 
 
 ```$ git clone https://github.com/dracula/nylas-n1.git```
 
