@@ -2,11 +2,15 @@
 
 > A dark theme for [Nylas N1](http://nylas.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/nylas-n1.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/nylasn1.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/nylas-n1](https://draculatheme.com/nylas-n1).
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+```$ git clone https://github.com/dracula/nylas-n1.git```
+
+Open N1 and install the theme by going to `Nylas N1 > Install New Theme...` and selecting the directory.
 
 ## Team
 
