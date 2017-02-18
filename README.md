@@ -16,7 +16,7 @@ Open N1 and install the theme by going to `Nylas N1 > Install New Theme...` and 
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-| [![Benjamin Garcia](https://avatars3.githubusercontent.com/u/1433960?v=3&amp;s=460)](https://github.com/benjamingarcia/) |
+| [![Benjamin Garcia](https://avatars3.githubusercontent.com/u/1433960?v=3&s=70)](https://github.com/benjamingarcia/) |
 | ---------------------- |
 | [Benjamin Garcia](https://github.com/benjamingarcia) |
 
