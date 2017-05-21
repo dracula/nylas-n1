@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "N1-Dracula",
+  "title": "Dracula",
+  "displayName": "Dracula",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "A dark theme for Nylas N1",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
