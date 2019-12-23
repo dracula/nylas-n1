@@ -2,7 +2,7 @@
 
 > A dark theme for [Nylas N1](http://nylas.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/nylas-n1.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
